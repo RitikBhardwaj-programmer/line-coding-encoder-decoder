@@ -1,0 +1,7 @@
+# Build output
+encoder
+encoder.exe
+*.o
+
+# Files the program writes at run time
+output/
